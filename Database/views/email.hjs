@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        h1{
+            font-weight: bold;
+        }
+    </style>
+    <body>
+        <h1>Thanks for yours response to our website</h1>
+            <h4>{{question}}</h4>
+    </body>
+</html>
